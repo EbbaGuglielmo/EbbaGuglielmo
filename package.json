@@ -1,0 +1,9 @@
+{
+  "name": "@ebbaguglielmo/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "blockchain-simple",
+  "main": "index.js",
+  "author": "@ebbaguglielmo",
+  "repository": "https://github.com/EbbaGuglielmo/EbbaGuglielmo.git",
+  "license": "ISC"
+}
